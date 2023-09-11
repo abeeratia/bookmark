@@ -1,0 +1,10 @@
+h1{
+    font-family: "Pacifico", cursive;
+}
+p{
+    font-family: "Righteous", cursive;
+}
+.main {
+        min-height: 100vh;
+        background-color: #f7ecde;
+    }
